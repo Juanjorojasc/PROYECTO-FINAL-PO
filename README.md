@@ -6,7 +6,7 @@ EcoMisión es un prototipo de experiencia interactiva sobre cuidado ambiental, d
 
 ## Integrantes
 
-- 
+- Rojas Canencio Juan Jose
 
 ## Curso
 
