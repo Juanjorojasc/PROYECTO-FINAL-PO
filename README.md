@@ -48,13 +48,7 @@ Si eliges continuar, accedes a un menú con las siguientes opciones:
 - `/src` — código fuente en C++
 - `/docs` — documentación de diseño, decisiones y uso de IA
 
-## Capturas del programa funcionando
 
-### Inicio del programa y zonas registradas
-
-![Inicio del programa](docs/imagenes/ejecucion-1-inicio.png)
-
-### Demostración de interacción (sobrecarga por nombre)
 
 ![Interacción con elemento](docs/imagenes/ejecucion-2-interaccion.png)
 
