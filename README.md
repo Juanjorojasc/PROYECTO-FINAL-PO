@@ -47,11 +47,3 @@ Si eliges continuar, accedes a un menú con las siguientes opciones:
 
 - `/src` — código fuente en C++
 - `/docs` — documentación de diseño, decisiones y uso de IA
-
-
-
-![Interacción con elemento](docs/imagenes/ejecucion-2-interaccion.png)
-
-### Menú interactivo
-
-![Menú interactivo](docs/imagenes/ejecucion-3-menu.png)
